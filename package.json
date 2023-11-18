@@ -1,5 +1,5 @@
 {
-  "name": "sitemap-cli",
+  "name": "@hata6502/sitemap-cli",
   "version": "1.0.0",
   "description": "Output site URLs from sitemap.xml. ",
   "author": "hata6502",

@@ -5,7 +5,7 @@ Output site URLs from sitemap.xml.
 ## Install
 
 ```bash
-npm install -g sitemap-cli
+npm install -g @hata6502/sitemap-cli
 ```
 
 ## Usage
