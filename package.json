@@ -1,0 +1,13 @@
+{
+  "name": "sitemap-cli",
+  "version": "1.0.0",
+  "description": "Output site URLs from sitemap.xml. ",
+  "author": "hata6502",
+  "license": "CC0-1.0",
+  "bin": {
+    "sitemap": "src/index.mjs"
+  },
+  "dependencies": {
+    "sitemapper": "^3.2.8"
+  }
+}
