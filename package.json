@@ -1,6 +1,6 @@
 {
   "name": "@hata6502/sitemap-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Output site URLs from sitemap.xml. ",
   "author": "hata6502",
   "license": "CC0-1.0",
@@ -8,6 +8,6 @@
     "sitemap": "src/index.mjs"
   },
   "dependencies": {
-    "sitemapper": "^3.2.8"
+    "sitemapper": "^4.0.2"
   }
 }
